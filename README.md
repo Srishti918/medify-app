@@ -19,7 +19,7 @@ To clone the repository and run the Expense Tracker application locally, follow 
 Clone the repository from GitHub:
 git clone https://github.com/Srishti918/medify-app.git
 
-Navigate to the Expense Tracker directory: cd medify-app
+Navigate to the Medify App directory: cd medify-app
 
 Install dependencies using npm: npm install
 
